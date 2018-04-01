@@ -1,0 +1,27 @@
+﻿<Window x:Class="Calculadora_FinalWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculadora_FinalWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Border BorderBrush="Silver"  BorderThickness="1" Height="287" HorizontalAlignment="Left" Margin="12,12,0,0" Name="Border1" VerticalAlignment="Top" Width="479" Background="#FF565B63" AllowDrop="False"/>
+
+        <TextBox Height="21" HorizontalAlignment="Left" x:Name="TextBox1" VerticalAlignment="Top" Width="106" PreviewTextInput="NumberValidationTextBox" Margin="199,145,0,0" />
+        <TextBox Height="21" HorizontalAlignment="Left" Margin="198,176,0,0" Name="TextBox2" VerticalAlignment="Top" Width="106" PreviewTextInput="NumberValidationTextBox" />
+        <Button Content="+" Height="33" HorizontalAlignment="Left" Margin="315,142,0,0" Name="Button1" VerticalAlignment="Top" Width="42" Click="Button1_Click" />
+        <TextBox Height="25" HorizontalAlignment="Left" FontSize="14" Background="Yellow" Margin="199,224,0,0" x:Name="TextBoxRes" VerticalAlignment="Top" Width="106" />
+        <Label Content="CALCULADORA-WPF" Foreground="White" Height="32" HorizontalAlignment="Left" Margin="104,75,0,0" Name="Label1" VerticalAlignment="Top" Width="318" FontWeight="Bold" FontStyle="Normal" FontFamily="Verdana" />
+        <Label Content="Número 1:" Foreground="White" Height="34" HorizontalAlignment="Left" Margin="128,142,0,0" Name="Label2" VerticalAlignment="Top" Width="78" />
+        <Label Content="Número 2:" Foreground="White" Height="33" HorizontalAlignment="Left" Margin="128,171,0,0" Name="Label3" VerticalAlignment="Top" Width="73" />
+        <Label Content="Resultado:" Foreground="White" Height="31" HorizontalAlignment="Left" Margin="128,224,0,0" Name="Label4" VerticalAlignment="Top" Width="72" />
+        <Button Content="C" Height="33" HorizontalAlignment="Left" Margin="315,220,0,0" Name="Button2" VerticalAlignment="Top" Width="91" Click="Button2_Click" />
+        <Button Content="-" Height="33" HorizontalAlignment="Left" Margin="363,142,0,0" Name="Button3" VerticalAlignment="Top" Width="42" Click="Button3_Click" />
+        <Button Content="*" Height="33" HorizontalAlignment="Left" Margin="315,182,0,0" Name="Button4" VerticalAlignment="Top" Width="42" Click="Button4_Click" />
+        <Button Content="/" Height="32" HorizontalAlignment="Left" Margin="362,182,0,0" Name="Button5" VerticalAlignment="Top" Width="42" Click="Button5_Click" />
+        <Button Content="^" Name="Button6" Margin="418,182,56.4,105.8" RenderTransformOrigin="0.5,0.503" Click="Button6_Click" />
+        <Button Content="Sqrt" Name="Button7" Margin="418,142,56.4,145.8" RenderTransformOrigin="0.5,0.503" Click="Button7_Click" />
+    </Grid>
+</Window>

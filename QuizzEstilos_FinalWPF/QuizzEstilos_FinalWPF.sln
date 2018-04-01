@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzEstilos_FinalWPF", "QuizzEstilos_FinalWPF\QuizzEstilos_FinalWPF.csproj", "{E7F8767F-B1FF-40B0-AF4E-683F46FCFD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F8767F-B1FF-40B0-AF4E-683F46FCFD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F8767F-B1FF-40B0-AF4E-683F46FCFD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F8767F-B1FF-40B0-AF4E-683F46FCFD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F8767F-B1FF-40B0-AF4E-683F46FCFD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {929B910F-7CEB-4200-9573-330304FCEA74}
+	EndGlobalSection
+EndGlobal

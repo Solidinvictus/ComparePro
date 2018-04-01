@@ -1,0 +1,15 @@
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\bin\Debug\Calculadora_FinalWPF.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\bin\Debug\Calculadora_FinalWPF.exe
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\bin\Debug\Calculadora_FinalWPF.pdb
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\MainWindow.g.cs
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\App.g.cs
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF_MarkupCompile.cache
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF_MarkupCompile.lref
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\MainWindow.baml
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF.g.resources
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF.csproj.CoreCompileInputs.cache
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF.exe
+c:\users\ali\documents\visual studio 2017\Projects\Calculadora_FinalWPF\Calculadora_FinalWPF\obj\Debug\Calculadora_FinalWPF.pdb

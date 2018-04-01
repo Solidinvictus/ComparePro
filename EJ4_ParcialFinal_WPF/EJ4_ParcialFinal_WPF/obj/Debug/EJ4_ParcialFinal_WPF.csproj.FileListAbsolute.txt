@@ -1,0 +1,32 @@
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.csprojResolveAssemblyReference.cache
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\App.g.cs
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF_MarkupCompile.cache
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF_MarkupCompile.lref
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\bin\Debug\EJ4_ParcialFinal_WPF.exe.config
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\bin\Debug\EJ4_ParcialFinal_WPF.exe
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\bin\Debug\EJ4_ParcialFinal_WPF.pdb
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\WindowContacts.g.cs
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\MainWindow.baml
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\WindowContacts.baml
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.g.resources
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.Properties.Resources.resources
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.csproj.GenerateResource.Cache
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.csproj.CoreCompileInputs.cache
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.exe
+C:\Users\ali\Documents\Visual Studio 2017\Projects\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.pdb
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\bin\Debug\EJ4_ParcialFinal_WPF.exe.config
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\bin\Debug\EJ4_ParcialFinal_WPF.exe
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\bin\Debug\EJ4_ParcialFinal_WPF.pdb
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.csprojResolveAssemblyReference.cache
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\WindowContacts.g.cs
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\App.g.cs
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF_MarkupCompile.cache
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF_MarkupCompile.lref
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\WindowContacts.baml
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.g.resources
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.Properties.Resources.resources
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.csproj.GenerateResource.Cache
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.csproj.CoreCompileInputs.cache
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.exe
+F:\Ali_WPF\EJ4_ParcialFinal_WPF\EJ4_ParcialFinal_WPF\obj\Debug\EJ4_ParcialFinal_WPF.pdb

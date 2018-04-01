@@ -1,0 +1,9 @@
+﻿<Application x:Class="EJ4_ParcialFinal_WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:EJ4_ParcialFinal_WPF"
+             StartupUri="WindowContacts.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
